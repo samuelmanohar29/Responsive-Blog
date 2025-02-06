@@ -23,6 +23,7 @@ body {
   
   header h1 {
     margin: 0;
+    padding-bottom: 4px;
     font-size: 2rem;
   }
   
@@ -87,7 +88,7 @@ body {
   .container {
     width: 90%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 10px auto;
   }
   
   /* Header */
@@ -245,6 +246,7 @@ body {
       top: 60px;
       left: 0;
       width: 100%;
+      margin-top: 8px;
       padding: 10px 0;
     }
   
